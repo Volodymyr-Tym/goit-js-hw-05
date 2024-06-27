@@ -1,2 +1,2 @@
 # goit-js-hw-05
-This is my 5 JS homework.
+This is my homework №5
